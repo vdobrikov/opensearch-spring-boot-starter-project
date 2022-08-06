@@ -1,0 +1,4 @@
+META-INF/spring-configuration-metadata.json
+com/vdobrikov/opensearch/autoconfigure/HostProperties.class
+com/vdobrikov/opensearch/autoconfigure/OpenSearchAutoConfiguration.class
+com/vdobrikov/opensearch/autoconfigure/OpenSearchProperties.class
